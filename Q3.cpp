@@ -1,4 +1,4 @@
-// @SAP id : 81024
+
 // Syed Hashir Ali Kazmi
 
 #include<iostream>
